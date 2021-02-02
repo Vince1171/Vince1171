@@ -6,9 +6,9 @@
 
 - 🔭 I just finished my studies and looking for a job !
 - 🌱 I’m currently trying to learn everything 🤣
-- 🥅 2020 Goals: 
+- 🥅 2021 Goals: 
     - Contribute more to Open Source projects
-    - Learn Ada
+    - Find a job
 - ⚡ Fun fact: I love to cook
 
 
