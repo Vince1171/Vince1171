@@ -4,11 +4,9 @@
 
 ## I'm a "Jack of all trades" dev!
 
-- 🔭 I just finished my studies and looking for a job !
 - 🌱 I’m currently trying to learn everything 🤣
-- 🥅 2021 Goals: 
+- 🥅 Goals: 
     - Contribute more to Open Source projects
-    - Find a job
 - ⚡ Fun fact: I love to cook
 
 
